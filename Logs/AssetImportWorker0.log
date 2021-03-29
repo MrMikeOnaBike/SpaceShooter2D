@@ -616,3 +616,923 @@ System memory in use after: 168.2 MB.
 Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2349.
 Total: 1.345292 ms (FindLiveObjects: 0.140000 ms CreateObjectMapping: 0.036208 ms MarkObjects: 1.151875 ms  DeleteObjects: 0.016500 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000911 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.169 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 168.4 MB.
+System memory in use after: 168.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2353.
+Total: 4.109833 ms (FindLiveObjects: 0.768458 ms CreateObjectMapping: 0.052042 ms MarkObjects: 3.267875 ms  DeleteObjects: 0.020500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001425 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.071 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 168.6 MB.
+System memory in use after: 168.7 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2357.
+Total: 1.406375 ms (FindLiveObjects: 0.155834 ms CreateObjectMapping: 0.036791 ms MarkObjects: 1.194584 ms  DeleteObjects: 0.018417 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002409 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.923 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 168.8 MB.
+System memory in use after: 168.9 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2361.
+Total: 1.337875 ms (FindLiveObjects: 0.153625 ms CreateObjectMapping: 0.037125 ms MarkObjects: 1.131917 ms  DeleteObjects: 0.013875 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007491 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.14 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.016 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 169.0 MB.
+System memory in use after: 169.1 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2365.
+Total: 1.694958 ms (FindLiveObjects: 0.122959 ms CreateObjectMapping: 0.035625 ms MarkObjects: 1.152500 ms  DeleteObjects: 0.382583 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001225 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.777 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 169.2 MB.
+System memory in use after: 169.4 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2369.
+Total: 1.368666 ms (FindLiveObjects: 0.141833 ms CreateObjectMapping: 0.036042 ms MarkObjects: 1.175250 ms  DeleteObjects: 0.014834 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 80006.963254 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Player_Hurt/Fire_00000.png
+  artifactKey: Guid(371fa23a16c2b470dbbdf50d24a9c247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Player_Hurt/Fire_00000.png using Guid(371fa23a16c2b470dbbdf50d24a9c247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e946e51b478c0d421b16c9bff63d3bbd') in 0.841297 seconds
+  Import took 0.852685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.055384 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Asteroid.png
+  artifactKey: Guid(6691643d9d08ede40bc93504dc8acb2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Asteroid.png using Guid(6691643d9d08ede40bc93504dc8acb2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c5f5b70f70a1b64cdf4e33bcbd9dd7b') in 0.018349 seconds
+  Import took 0.021696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000603 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Asteroid.png
+  artifactKey: Guid(6691643d9d08ede40bc93504dc8acb2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Asteroid.png using Guid(6691643d9d08ede40bc93504dc8acb2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c5f5b70f70a1b64cdf4e33bcbd9dd7b') in 0.008581 seconds
+  Import took 0.011473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.180980 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00000.png
+  artifactKey: Guid(3154912113cbb4a498df6f571c74e18c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00000.png using Guid(3154912113cbb4a498df6f571c74e18c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c789e4b4fc52fe1658ea21b840145ca4') in 0.017386 seconds
+  Import took 0.021505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.180672 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00010.png
+  artifactKey: Guid(bdae25617687d4961a3b7a6a1b99da80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00010.png using Guid(bdae25617687d4961a3b7a6a1b99da80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b28fae09d49fe717d911dc0f331982d9') in 0.013853 seconds
+  Import took 0.018025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.481672 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00001.png
+  artifactKey: Guid(5939592cd9b9f4335a4ee907fa989be4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00001.png using Guid(5939592cd9b9f4335a4ee907fa989be4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05c3afaf5d8229f96a16de128317deb8') in 0.011622 seconds
+  Import took 0.015038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.245279 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00002.png
+  artifactKey: Guid(537930933d92c4333ae40c1d6d362b74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00002.png using Guid(537930933d92c4333ae40c1d6d362b74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d78b8baa25f91084c979ba5506aa277') in 0.012915 seconds
+  Import took 0.017249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.308132 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00003.png
+  artifactKey: Guid(c2e13c0c12b714179887597dd1d6b1f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00003.png using Guid(c2e13c0c12b714179887597dd1d6b1f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7989bc621742a5d669e5bf56b267b86') in 0.011614 seconds
+  Import took 0.015250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.118021 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00004.png
+  artifactKey: Guid(f574bd8eb232a4689af64e1d5dc05a21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00004.png using Guid(f574bd8eb232a4689af64e1d5dc05a21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af264aeea5e8e78e52caf78f18523057') in 0.009422 seconds
+  Import took 0.012302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.150060 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00005.png
+  artifactKey: Guid(6f55af48c2b0a4aac993a217fcebe9d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00005.png using Guid(6f55af48c2b0a4aac993a217fcebe9d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9eca0402a41685e76321dbf91ab7fa1') in 0.009461 seconds
+  Import took 0.012556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.131573 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00006.png
+  artifactKey: Guid(786597786c8f747a581a1bfb26411214) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00006.png using Guid(786597786c8f747a581a1bfb26411214) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '077467036f1da5aeb62aca554116b600') in 0.009199 seconds
+  Import took 0.012189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.131489 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00007.png
+  artifactKey: Guid(76f79295758ed42e08496e40465300ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00007.png using Guid(76f79295758ed42e08496e40465300ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba9047f9668fb9000e75bf3f404c1d06') in 0.009269 seconds
+  Import took 0.012281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.160887 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00008.png
+  artifactKey: Guid(6e79bf9eae111464a948323374ce32f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00008.png using Guid(6e79bf9eae111464a948323374ce32f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4039016222313f98a7d46a034216462') in 0.010008 seconds
+  Import took 0.013207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.302029 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00009.png
+  artifactKey: Guid(72fa818d45dda4ee998bda50180f1e96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00009.png using Guid(72fa818d45dda4ee998bda50180f1e96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d1730359bf09a3e4226aa4617ddd816') in 0.014149 seconds
+  Import took 0.018662 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.555618 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00011.png
+  artifactKey: Guid(6680d84ea14cd490d94fca00dd42d17c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00011.png using Guid(6680d84ea14cd490d94fca00dd42d17c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a19c1f21633c83656e92e83ef31cb79f') in 0.009707 seconds
+  Import took 0.012649 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.061460 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00012.png
+  artifactKey: Guid(1236074791aa04c62a63bb23a805edf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00012.png using Guid(1236074791aa04c62a63bb23a805edf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '911487a2812aee7811777faef293f087') in 0.009357 seconds
+  Import took 0.012064 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.072930 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00013.png
+  artifactKey: Guid(cc29a104009564a12af656f2334002ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00013.png using Guid(cc29a104009564a12af656f2334002ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f464d01f66397d5b4c447e50bc651c0') in 0.009055 seconds
+  Import took 0.012000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.072555 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00014.png
+  artifactKey: Guid(b1956f496b6494ef0b7d7233c595f193) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00014.png using Guid(b1956f496b6494ef0b7d7233c595f193) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44e502f2bad0cd8549faeffac06fcc32') in 0.009900 seconds
+  Import took 0.012513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.087399 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00015.png
+  artifactKey: Guid(653116d5db0fa4faeb2963cbd5038874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00015.png using Guid(653116d5db0fa4faeb2963cbd5038874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be065c1d9d5b731ca2353e6b02372b9a') in 0.009526 seconds
+  Import took 0.012286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.091484 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00016.png
+  artifactKey: Guid(1290119f2b43a414f860b6224a41b855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00016.png using Guid(1290119f2b43a414f860b6224a41b855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea635ebc5794b90ce44643f5840bf169') in 0.009539 seconds
+  Import took 0.012145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.085310 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00017.png
+  artifactKey: Guid(f6633d78a620e40ea8b3f0c1f7c0b8a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00017.png using Guid(f6633d78a620e40ea8b3f0c1f7c0b8a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '685be2fad955fbc26b81a8fae5af10ab') in 0.009612 seconds
+  Import took 0.012143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.089943 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00018.png
+  artifactKey: Guid(84d1b40d1791a4703a24a3508945050d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00018.png using Guid(84d1b40d1791a4703a24a3508945050d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3982b7d1a04ae549697213665e06238b') in 0.010706 seconds
+  Import took 0.013249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045959 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00019.png
+  artifactKey: Guid(4aad5b508acca4c28ab8297b99c80a38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00019.png using Guid(4aad5b508acca4c28ab8297b99c80a38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6753db5e824063bbf1449621e845c04') in 0.010276 seconds
+  Import took 0.012937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.362581 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00020.png
+  artifactKey: Guid(f77bd938fdae34726a4d72c41253bfe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00020.png using Guid(f77bd938fdae34726a4d72c41253bfe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5471dcc4c9bf6d72daaf16ea6f7a64aa') in 0.016111 seconds
+  Import took 0.019909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.147747 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00021.png
+  artifactKey: Guid(b6f702cc69c29475281763ec8ae74c34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00021.png using Guid(b6f702cc69c29475281763ec8ae74c34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b525e744de2ac82f5162127ca254bb30') in 0.037064 seconds
+  Import took 0.040376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.098580 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00022.png
+  artifactKey: Guid(d2b526d33b19b476084bea7e7af259c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00022.png using Guid(d2b526d33b19b476084bea7e7af259c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '934ff8dac3f0b61b2c93acec33d2b7a9') in 0.009660 seconds
+  Import took 0.012665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.189063 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00023.png
+  artifactKey: Guid(eedb9448dfabd40908981ed6d9022d67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00023.png using Guid(eedb9448dfabd40908981ed6d9022d67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08c235f1a50943baea09d7f95a36e41e') in 0.010857 seconds
+  Import took 0.014108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.185496 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00024.png
+  artifactKey: Guid(543e52a636fd448509dbdf7e477bf72f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00024.png using Guid(543e52a636fd448509dbdf7e477bf72f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f0fc23af85eb67c3217ddedacc55cab') in 0.010623 seconds
+  Import took 0.014347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.101208 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00025.png
+  artifactKey: Guid(a00237563fc6a44aabd65df680e1f5ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00025.png using Guid(a00237563fc6a44aabd65df680e1f5ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd10ea8d9885a7bf4e19dda8fb975abb7') in 0.011982 seconds
+  Import took 0.015359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.202160 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00026.png
+  artifactKey: Guid(34a342ded83ad428c962af40193edb9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00026.png using Guid(34a342ded83ad428c962af40193edb9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '570689aa7dd5bb07893fbab45852cd3b') in 0.010464 seconds
+  Import took 0.013675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.102011 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00027.png
+  artifactKey: Guid(d1faac70da014416ab21c4b5cdbbedf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00027.png using Guid(d1faac70da014416ab21c4b5cdbbedf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0001a49f06af38533e5e1dc30b05643') in 0.012447 seconds
+  Import took 0.015688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.201340 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00028.png
+  artifactKey: Guid(544867a01983e4dd2a740a9bf0048d78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00028.png using Guid(544867a01983e4dd2a740a9bf0048d78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9a6348a4b4ea6a7c6ea426b119b338c') in 0.010793 seconds
+  Import took 0.014050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.185936 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00029.png
+  artifactKey: Guid(c9941fea0f7974b23be80703b846e8b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00029.png using Guid(c9941fea0f7974b23be80703b846e8b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '744449bf725472fb8c7ef95f770cc4ce') in 0.011503 seconds
+  Import took 0.014880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.185418 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00030.png
+  artifactKey: Guid(7b53d2e3915e84cf6bc46246ae29378a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00030.png using Guid(7b53d2e3915e84cf6bc46246ae29378a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26f39a15212bdf470e623184c0175f3d') in 0.011390 seconds
+  Import took 0.014723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.101192 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00031.png
+  artifactKey: Guid(be16f9d18299740eba37f17f3ae13810) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00031.png using Guid(be16f9d18299740eba37f17f3ae13810) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daf4fc9c9625b43ac8638ac8e6831247') in 0.012177 seconds
+  Import took 0.015250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.202493 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00032.png
+  artifactKey: Guid(16d2453440200492bb01d83848828ff0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00032.png using Guid(16d2453440200492bb01d83848828ff0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7aba128883d881bbf4f9865250d0dbdb') in 0.011739 seconds
+  Import took 0.014705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.100888 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00033.png
+  artifactKey: Guid(1fb4abcc5112843b781c36e11161368a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00033.png using Guid(1fb4abcc5112843b781c36e11161368a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0433f490495cbe24a209f38ccdf0635') in 0.013234 seconds
+  Import took 0.016290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.116333 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00034.png
+  artifactKey: Guid(aadf01a7300604b1e86e60b72f2562b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00034.png using Guid(aadf01a7300604b1e86e60b72f2562b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5efb35402a79c8a1a84b1bead8f020b') in 0.012601 seconds
+  Import took 0.015775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.117968 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00035.png
+  artifactKey: Guid(b509a8ae6478a4f67bc9d44a1941b1f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00035.png using Guid(b509a8ae6478a4f67bc9d44a1941b1f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d9b86a707911f21157b6646bdffce48') in 0.012063 seconds
+  Import took 0.015340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.117620 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00036.png
+  artifactKey: Guid(a9fb56b3dbef249f6a13b78ca405fdc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00036.png using Guid(a9fb56b3dbef249f6a13b78ca405fdc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd131e8ff14b38d62358addc219f50fd1') in 0.013215 seconds
+  Import took 0.016238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.201997 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00037.png
+  artifactKey: Guid(70771fbb1e694440bb9c8b8fc991df83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00037.png using Guid(70771fbb1e694440bb9c8b8fc991df83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c57d2920091137a1c7b85e43d609e58c') in 0.015134 seconds
+  Import took 0.017934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.097567 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00038.png
+  artifactKey: Guid(02c5a4b748bf448068ce88ee258f80f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00038.png using Guid(02c5a4b748bf448068ce88ee258f80f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '082e56a1931100372c23d8797ca316db') in 0.013071 seconds
+  Import took 0.016113 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.116603 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00039.png
+  artifactKey: Guid(8a6518b63895747809a33ab01016c111) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00039.png using Guid(8a6518b63895747809a33ab01016c111) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebbdf15d28559111039b1bd124a3f439') in 0.012396 seconds
+  Import took 0.015658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.202008 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00041.png
+  artifactKey: Guid(6b6248d611aa144fa8f77bf5e9710540) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00041.png using Guid(6b6248d611aa144fa8f77bf5e9710540) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1888a9c8bd9238a33a7ee081f4e95dab') in 0.011194 seconds
+  Import took 0.014151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.186184 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00042.png
+  artifactKey: Guid(faaa391c7b63142adbb8a89f20602b94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00042.png using Guid(faaa391c7b63142adbb8a89f20602b94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44ac78bb6f48f5c86a3d1416be02d2c5') in 0.012001 seconds
+  Import took 0.014813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.185197 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00043.png
+  artifactKey: Guid(6d4c0556a3f974428932e40ffc448eb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00043.png using Guid(6d4c0556a3f974428932e40ffc448eb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd45adcb7f336891f59164fc034076204') in 0.011421 seconds
+  Import took 0.014355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.101824 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00044.png
+  artifactKey: Guid(7539bb980ae3249f5882f08507b2cf5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00044.png using Guid(7539bb980ae3249f5882f08507b2cf5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f86a01f51173054f87fddb61a22831bd') in 0.013784 seconds
+  Import took 0.016951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.201266 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00045.png
+  artifactKey: Guid(015cd6c0d2a804dcbb9ba6795aaaf09a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00045.png using Guid(015cd6c0d2a804dcbb9ba6795aaaf09a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb7b506f660b039a3fab7a0a33d10d4d') in 0.011840 seconds
+  Import took 0.014618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.099467 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00046.png
+  artifactKey: Guid(9f2a35d3736344c738af9f9b349edd42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00046.png using Guid(9f2a35d3736344c738af9f9b349edd42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '743d82b66b13efc2569e265f10c09744') in 0.012891 seconds
+  Import took 0.016000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.119178 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00047.png
+  artifactKey: Guid(c2c519595e9f449f5ab702e9b5fda6c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00047.png using Guid(c2c519595e9f449f5ab702e9b5fda6c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f1c102b12c4f7c35a2a1f9347a1d5c6') in 0.013368 seconds
+  Import took 0.016282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.199340 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00048.png
+  artifactKey: Guid(8d0a90868f6ec47d59cd644182ebff57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00048.png using Guid(8d0a90868f6ec47d59cd644182ebff57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '141ca0bd8734737388ac56e8da582e60') in 0.012840 seconds
+  Import took 0.015670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.099855 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00049.png
+  artifactKey: Guid(c453a83e836c54cccbc997a20eb15988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00049.png using Guid(c453a83e836c54cccbc997a20eb15988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47b6e94d87425429695d9adac44a7efb') in 0.013673 seconds
+  Import took 0.016970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.117089 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00050.png
+  artifactKey: Guid(6a8b3f96327a649b782eca76de0e14d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00050.png using Guid(6a8b3f96327a649b782eca76de0e14d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb97b6f3615294694613a8a3ddb0cb28') in 0.012836 seconds
+  Import took 0.015969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.201074 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00051.png
+  artifactKey: Guid(f6968cbb8d6ca4e97afd06cff1dde761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00051.png using Guid(f6968cbb8d6ca4e97afd06cff1dde761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd60d8bff06276329daed498426d43ad7') in 0.011603 seconds
+  Import took 0.014755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.101590 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00052.png
+  artifactKey: Guid(60d5ed7e416814a4aa9294515e67e0db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00052.png using Guid(60d5ed7e416814a4aa9294515e67e0db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34548b8f2d36001a536b9523ce9ff91d') in 0.013327 seconds
+  Import took 0.016567 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.116092 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00053.png
+  artifactKey: Guid(5971c78d2ecf64d6f8bd0d8ab26b9c91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00053.png using Guid(5971c78d2ecf64d6f8bd0d8ab26b9c91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65a5db799fa3fa842ff24845fac3b093') in 0.014153 seconds
+  Import took 0.017058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.200558 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00054.png
+  artifactKey: Guid(39348fee8cea641e587e0f6cbecdac2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00054.png using Guid(39348fee8cea641e587e0f6cbecdac2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce4c037e4b1b08ff75e812168027e1a5') in 0.012329 seconds
+  Import took 0.015351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.184827 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00055.png
+  artifactKey: Guid(51ffd65fe107b4da58e55b672c5d2b1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00055.png using Guid(51ffd65fe107b4da58e55b672c5d2b1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '712abcc310c2ff1df7c6bbe56490a035') in 0.011847 seconds
+  Import took 0.014751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.185814 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00056.png
+  artifactKey: Guid(1c0c33a0e41a44e25a55a971b7770919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00056.png using Guid(1c0c33a0e41a44e25a55a971b7770919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f802011610534a94d57931cffb20e03d') in 0.011371 seconds
+  Import took 0.014298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.184702 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00057.png
+  artifactKey: Guid(cd1014039b11546b5838e814a4085a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00057.png using Guid(cd1014039b11546b5838e814a4085a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39a373e1a010d21014300117e783caad') in 0.011617 seconds
+  Import took 0.014547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.102207 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00058.png
+  artifactKey: Guid(c502cf324441c44eb9e358400809e67b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00058.png using Guid(c502cf324441c44eb9e358400809e67b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8de8a1a8920dd74f4844e59efd75f93') in 0.012334 seconds
+  Import took 0.015330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.407102 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00059.png
+  artifactKey: Guid(1557c12536b4041949a96067510ca924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00059.png using Guid(1557c12536b4041949a96067510ca924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdb9dfdc5896e890f8fea2cd9f9c2867') in 0.018762 seconds
+  Import took 0.023012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.049184 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00060.png
+  artifactKey: Guid(f06672bbc5ae14710b126ec6b288c9ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00060.png using Guid(f06672bbc5ae14710b126ec6b288c9ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4221222b4883218bd2c938194a9ea9e5') in 0.010961 seconds
+  Import took 0.014507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.146154 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00061.png
+  artifactKey: Guid(85276638c32394575b591124b9d54777) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00061.png using Guid(85276638c32394575b591124b9d54777) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3888d57960ba12bd11d924aee830a4fe') in 0.011706 seconds
+  Import took 0.014466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.095799 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00062.png
+  artifactKey: Guid(339d69d7a341a4614928138acac61f1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00062.png using Guid(339d69d7a341a4614928138acac61f1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '722df60925d0591512b1be179dce9584') in 0.013909 seconds
+  Import took 0.016908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.207443 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00064.png
+  artifactKey: Guid(8dd8b300582a54fd0a488c352b56fc59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00064.png using Guid(8dd8b300582a54fd0a488c352b56fc59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c2b380bef32b598091a26ccd38377c0') in 0.012198 seconds
+  Import took 0.014851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.179621 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00066.png
+  artifactKey: Guid(af9587812f0bb40f098799624c76c70e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00066.png using Guid(af9587812f0bb40f098799624c76c70e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '291f292b7f97d0c60c4bd5205d777358') in 0.011594 seconds
+  Import took 0.014524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.184338 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00067.png
+  artifactKey: Guid(08df3257629e94ec6b11640058c08bac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00067.png using Guid(08df3257629e94ec6b11640058c08bac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7af5c401c6e65b8f72b3a8e9c8eeeafe') in 0.012983 seconds
+  Import took 0.015842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.187619 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00069.png
+  artifactKey: Guid(bcb5e531993e54c3f8212f84d29e06bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00069.png using Guid(bcb5e531993e54c3f8212f84d29e06bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfbc698e6d9ff1e2041ffe79c1544e47') in 0.011869 seconds
+  Import took 0.014696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.973801 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00040.png
+  artifactKey: Guid(b610a9ad5fffa4591911a2f8c12cbd18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00040.png using Guid(b610a9ad5fffa4591911a2f8c12cbd18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18bba04f2b6699bc0b48d8e367a2d4e7') in 0.015638 seconds
+  Import took 0.018835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00040.png
+  artifactKey: Guid(b610a9ad5fffa4591911a2f8c12cbd18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00040.png using Guid(b610a9ad5fffa4591911a2f8c12cbd18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18bba04f2b6699bc0b48d8e367a2d4e7') in 0.011302 seconds
+  Import took 0.013886 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.894848 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00063.png
+  artifactKey: Guid(f87c25168fe154cdb86b0679a3640b17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00063.png using Guid(f87c25168fe154cdb86b0679a3640b17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6098189376c00e52c543d70f4b2a427') in 0.012841 seconds
+  Import took 0.015449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.183487 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00065.png
+  artifactKey: Guid(8abc14a23d39040a488923e56a4c8234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00065.png using Guid(8abc14a23d39040a488923e56a4c8234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d7c927d67fa2aa12e1c5815730a74f3') in 0.010827 seconds
+  Import took 0.013390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.267043 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00068.png
+  artifactKey: Guid(b7f5a08d971c6436a8d0d4dd27ce2025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00068.png using Guid(b7f5a08d971c6436a8d0d4dd27ce2025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5a00489d9a3f81e765eda7400ea4a52') in 0.012163 seconds
+  Import took 0.015188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.253410 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00070.png
+  artifactKey: Guid(692ff9f54522046a08b24dce97a8102e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00070.png using Guid(692ff9f54522046a08b24dce97a8102e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd21399848d64e0321bb5af222b78507b') in 0.013431 seconds
+  Import took 0.016744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.047533 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00071.png
+  artifactKey: Guid(2f5d425c73b7346deb66ad43bc36553c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00071.png using Guid(2f5d425c73b7346deb66ad43bc36553c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9a670c4573642650714725fcc4b52db') in 0.011650 seconds
+  Import took 0.015005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.117997 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00072.png
+  artifactKey: Guid(67073c2aad0914e2da9b20030f0a9a8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00072.png using Guid(67073c2aad0914e2da9b20030f0a9a8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '179744d442e1a5e175b8213c2caea293') in 0.012274 seconds
+  Import took 0.015728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.201942 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00074.png
+  artifactKey: Guid(5f57f87e317d74c1db1150cc6fc04ee3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00074.png using Guid(5f57f87e317d74c1db1150cc6fc04ee3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de6f4b85012294f6e71cd5545d468d8d') in 0.012504 seconds
+  Import took 0.015626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.183827 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00075.png
+  artifactKey: Guid(4accd28ae0535453b9f439e93b9c0570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00075.png using Guid(4accd28ae0535453b9f439e93b9c0570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acd4c2fc467b0380680d1a6709435d10') in 0.011466 seconds
+  Import took 0.014639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.102031 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00076.png
+  artifactKey: Guid(d41ad13d659f84d1cac8ba0c4a0a26af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00076.png using Guid(d41ad13d659f84d1cac8ba0c4a0a26af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1624ed1b19cc671ea591132e9ff819b') in 0.013032 seconds
+  Import took 0.016302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.203758 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00078.png
+  artifactKey: Guid(21c39e884b5f74a1f939dcb4393cf7e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00078.png using Guid(21c39e884b5f74a1f939dcb4393cf7e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fc473c8423550ae846ea2270c2f858f') in 0.010947 seconds
+  Import took 0.013596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.183363 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00080.png
+  artifactKey: Guid(32c2ea436317e4c43b983c79ea69a483) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00080.png using Guid(32c2ea436317e4c43b983c79ea69a483) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c691e5bf09f66c1946fa502e1204866') in 0.010265 seconds
+  Import took 0.013209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.186556 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00082.png
+  artifactKey: Guid(ff7e9cbddf7a947f9b41baa6aa502dfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00082.png using Guid(ff7e9cbddf7a947f9b41baa6aa502dfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ae8bc674d3a47baf85cfb077ab6744f') in 0.010409 seconds
+  Import took 0.013661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.186836 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00083.png
+  artifactKey: Guid(aa0c3b038518544f8889cefb3c4845a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00083.png using Guid(aa0c3b038518544f8889cefb3c4845a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb91a27f225289b159ea63df7ee3d966') in 0.012848 seconds
+  Import took 0.015684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.100088 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00084.png
+  artifactKey: Guid(659ac1fc34e1e48118fa898dbd4d3f4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00084.png using Guid(659ac1fc34e1e48118fa898dbd4d3f4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fa21f79f3f618ccb68690c2fc5ffe36') in 0.011955 seconds
+  Import took 0.015160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.117397 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00085.png
+  artifactKey: Guid(61fef248f5e454ae8a678a0e27817485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00085.png using Guid(61fef248f5e454ae8a678a0e27817485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1308f4d838725d2d6394d90121099aa0') in 0.011527 seconds
+  Import took 0.015029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.117938 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00087.png
+  artifactKey: Guid(0f3789bda178c48f1878bd90da0d79fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00087.png using Guid(0f3789bda178c48f1878bd90da0d79fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28a51e85dbd5f1c95ad6723022acb5d3') in 0.011458 seconds
+  Import took 0.014638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.203818 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00088.png
+  artifactKey: Guid(3919c0b26b48c445490500727b1400f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00088.png using Guid(3919c0b26b48c445490500727b1400f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9856e1af78d303bc0f8cf1453ce7b5fa') in 0.011846 seconds
+  Import took 0.015043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.184332 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00090.png
+  artifactKey: Guid(7e429ad99b4ca41d696825f6567da7eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00090.png using Guid(7e429ad99b4ca41d696825f6567da7eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56c3bc1e633f97d928d5d99abc642425') in 0.017295 seconds
+  Import took 0.020070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.213294 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00091.png
+  artifactKey: Guid(6e86d453d9f144c98849647c76dddbd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00091.png using Guid(6e86d453d9f144c98849647c76dddbd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da7e4ac411c59cac1d0bf30626776152') in 0.012248 seconds
+  Import took 0.015577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.069514 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00092.png
+  artifactKey: Guid(529aa54b27f9047d0a04bea0e2a94ea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00092.png using Guid(529aa54b27f9047d0a04bea0e2a94ea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80826dd75870c030050598a423ee7a69') in 0.011291 seconds
+  Import took 0.014130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.116030 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00093.png
+  artifactKey: Guid(75bb75e0df2d4485f97d96511bd73be6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00093.png using Guid(75bb75e0df2d4485f97d96511bd73be6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e05304e4c5a2caefe8c33ec4c70d2c4f') in 0.012019 seconds
+  Import took 0.015460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.206262 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00095.png
+  artifactKey: Guid(5838e75ba802b46c1a9b6dad283a9cb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00095.png using Guid(5838e75ba802b46c1a9b6dad283a9cb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18606e2733b6403de5dfee938c074c63') in 0.010207 seconds
+  Import took 0.012898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.183204 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00096.png
+  artifactKey: Guid(668162a062acf44dd893a50281735f81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00096.png using Guid(668162a062acf44dd893a50281735f81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7aa5882155330e416cac93fb161780b0') in 0.010987 seconds
+  Import took 0.014314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.101381 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00097.png
+  artifactKey: Guid(9298138094a664f57b0915c4e7818bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00097.png using Guid(9298138094a664f57b0915c4e7818bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63b1958d87b88d21695c24ce351570d8') in 0.010748 seconds
+  Import took 0.013788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.206084 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00099.png
+  artifactKey: Guid(a04706569351f4bf9adc423faef55488) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00099.png using Guid(a04706569351f4bf9adc423faef55488) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1ef69b7c721210964e7d4a6d78ef9bb') in 0.010129 seconds
+  Import took 0.012960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.184847 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00101.png
+  artifactKey: Guid(af1144ebb37084f718fe8f461ff82e79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00101.png using Guid(af1144ebb37084f718fe8f461ff82e79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e46ca37d52e04627a4dc9be47619a312') in 0.009679 seconds
+  Import took 0.012596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.102922 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00102.png
+  artifactKey: Guid(d365eab4b4040481e8e8fcbb22555f4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00102.png using Guid(d365eab4b4040481e8e8fcbb22555f4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c306bfd942fd12603906947048a1ca7e') in 0.011078 seconds
+  Import took 0.014335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.119722 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00103.png
+  artifactKey: Guid(211774765226242d6a63c6380787acb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00103.png using Guid(211774765226242d6a63c6380787acb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f78d3d91e5b3fedde8a0091f6d227c61') in 0.010472 seconds
+  Import took 0.013899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.121815 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00104.png
+  artifactKey: Guid(83deed78386d64b15b381c059bac0601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Galaxy_Assets/Sprites/Enemy_Explode_Sequence/EnemyTurnLeft0000_00104.png using Guid(83deed78386d64b15b381c059bac0601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2046237f1688ccf83f115ea624708787') in 0.010230 seconds
+  Import took 0.013078 seconds .
+
