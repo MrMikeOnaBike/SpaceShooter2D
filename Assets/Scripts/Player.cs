@@ -9,6 +9,7 @@ public class Player : MonoBehaviour
     [SerializeField] private float _fireRate = 0.2f;
     private float _canFire = -1f;
     [SerializeField] int _lives = 3;
+    [SerializeField] private GameObject _spawner;
 
     void Start()
     {
@@ -57,7 +58,7 @@ public class Player : MonoBehaviour
     void FireLaser()
     {
         _canFire = Time.time + _fireRate;
-        Instantiate(_laserPrefab, transform.position + new Vector3(0, 0.8f, 0), Quaternion.identity);
+        Instantiate(_laserPrefab, transform.position + new Vector3(0, 1f, 0), Quaternion.identity);
     }
 
     public void Damage()
@@ -68,6 +69,10 @@ public class Player : MonoBehaviour
         if(_lives <= 0)
         {
             Debug.Log("You died.");
+
+            //call the function in the spawn manager script and let it know we died
+            _spawner.GetComponent<SpawnManager>().OnPlayerDeath();
+
             Destroy(this.gameObject);
         }
     }
