@@ -6,12 +6,6 @@ public class PowerUp : MonoBehaviour
 {
     [SerializeField] private float _speed = 3.0f;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
     // Update is called once per frame
     void Update()
     {
@@ -27,11 +21,11 @@ public class PowerUp : MonoBehaviour
     {
         if(other.tag == "Player")
         {
-            Player _player = other.gameObject.GetComponent<Player>();
+            Player player = other.gameObject.GetComponent<Player>();
 
-            if (_player != null)
+            if (player != null)
             {
-                _player.TurnOnTripleShot();
+                player.TurnOnTripleShot();
             }
 
             Destroy(this.gameObject);

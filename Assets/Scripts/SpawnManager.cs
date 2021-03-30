@@ -7,16 +7,18 @@ public class SpawnManager : MonoBehaviour
     [SerializeField] private float _spawnRate = 5.0f;
     [SerializeField] private GameObject _enemyPrefab;
     [SerializeField] private GameObject _enemyContainer;
+    [SerializeField] private GameObject _tripleShotPowerup;
 
     private bool _stopSpawning = false;
 
     // Start is called before the first frame update
     void Start()
     {
-        StartCoroutine(SpawnRoutine());
+        StartCoroutine(SpawnEnemyRoutine());
+        StartCoroutine(SpawnPowerupRoutine());
     }
 
-    IEnumerator SpawnRoutine()
+    IEnumerator SpawnEnemyRoutine()
     {
         while (_stopSpawning == false)
         {
@@ -29,6 +31,21 @@ public class SpawnManager : MonoBehaviour
             yield return new WaitForSeconds(_spawnRate);
         }
     }
+
+    IEnumerator SpawnPowerupRoutine()
+    {
+        while (_stopSpawning == false)
+        {
+            float spawnRate = Random.Range(3f, 7f);
+
+            Vector3 positionToSpawn = new Vector3(Random.Range(-8f, 8f), 7f, 0f);
+
+            Instantiate(_tripleShotPowerup, positionToSpawn, Quaternion.identity);
+
+            yield return new WaitForSeconds(spawnRate);
+        }
+    }
+
 
     public void OnPlayerDeath()
     {
