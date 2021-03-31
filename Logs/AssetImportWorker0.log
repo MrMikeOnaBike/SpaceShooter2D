@@ -3180,3 +3180,301 @@ System memory in use after: 213.4 MB.
 Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2608.
 Total: 1.459083 ms (FindLiveObjects: 0.191167 ms CreateObjectMapping: 0.039083 ms MarkObjects: 1.214000 ms  DeleteObjects: 0.014083 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 57702.355596 seconds.
+  path: Assets/Sprites/Power_Ups/Shield/Powerup2_0008_00000.png
+  artifactKey: Guid(e2f5f1638e62545a09c5d6e6d3643101) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Power_Ups/Shield/Powerup2_0008_00000.png using Guid(e2f5f1638e62545a09c5d6e6d3643101) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a0872be0c49631a325a72740e0b179d') in 0.458087 seconds
+  Import took 0.551497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.476877 seconds.
+  path: Assets/Sprites/Power_Ups/Shield
+  artifactKey: Guid(fb798e3e9a561994c8103f1958160eea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Power_Ups/Shield using Guid(fb798e3e9a561994c8103f1958160eea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e45e72d14dd15f1182fa0e9015f82214') in 0.001733 seconds
+  Import took 0.006393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007662 seconds.
+  path: Assets/Sprites/Power_Ups/Shield
+  artifactKey: Guid(fb798e3e9a561994c8103f1958160eea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Power_Ups/Shield using Guid(fb798e3e9a561994c8103f1958160eea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e45e72d14dd15f1182fa0e9015f82214') in 0.000887 seconds
+  Import took 0.004027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 515.769683 seconds.
+  path: Assets/Sprites/Power_Ups/Shield/Powerup2_0008_00009.png
+  artifactKey: Guid(ecf228bd60aaf44aeb5717b225b9bab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Power_Ups/Shield/Powerup2_0008_00009.png using Guid(ecf228bd60aaf44aeb5717b225b9bab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a849ee72200ddf7ff4bf802c5ef9a4d5') in 0.042649 seconds
+  Import took 0.054347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 897.584340 seconds.
+  path: Assets/Animations/triple_shot.anim
+  artifactKey: Guid(ce78a4a92e26e4e7cbf9f5559e36a246) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/triple_shot.anim using Guid(ce78a4a92e26e4e7cbf9f5559e36a246) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45fb313652ad3bc93cee7be80d96a554') in 0.026769 seconds
+  Import took 0.047791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017037 seconds.
+  path: Assets/Animations/triple_shot.anim
+  artifactKey: Guid(ce78a4a92e26e4e7cbf9f5559e36a246) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/triple_shot.anim using Guid(ce78a4a92e26e4e7cbf9f5559e36a246) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45fb313652ad3bc93cee7be80d96a554') in 0.002709 seconds
+  Import took 0.009468 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.171986 seconds.
+  path: Assets/Animations/TripleShot_Powerup.anim
+  artifactKey: Guid(ce78a4a92e26e4e7cbf9f5559e36a246) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/TripleShot_Powerup.anim using Guid(ce78a4a92e26e4e7cbf9f5559e36a246) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd370d44f419c3cdfd678692896dd4bfe') in 0.004197 seconds
+  Import took 0.007214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.996855 seconds.
+  path: Assets/Animations/Shield_Powerup.anim
+  artifactKey: Guid(8e3ecea262b2e42c9b04f38ee42a5e74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Shield_Powerup.anim using Guid(8e3ecea262b2e42c9b04f38ee42a5e74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3aef80104d91ddd3c6e28b6e2c191aed') in 0.004805 seconds
+  Import took 0.008739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012582 seconds.
+  path: Assets/Animations/Shield_Powerup.anim
+  artifactKey: Guid(8e3ecea262b2e42c9b04f38ee42a5e74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Shield_Powerup.anim using Guid(8e3ecea262b2e42c9b04f38ee42a5e74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3aef80104d91ddd3c6e28b6e2c191aed') in 0.002799 seconds
+  Import took 0.005637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 280.295290 seconds.
+  path: Assets/Animations/Powerup2_0008_00000.controller
+  artifactKey: Guid(ef925eb112dd04626920e493451e7e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Powerup2_0008_00000.controller using Guid(ef925eb112dd04626920e493451e7e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a9dba8355c2713e47bf566a59bdb330') in 0.055019 seconds
+  Import took 0.065882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 119.077839 seconds.
+  path: Assets/Animations/Powerup3_0008_00000.controller
+  artifactKey: Guid(70a7cbb252c2d4586b90d1906590c5ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Powerup3_0008_00000.controller using Guid(70a7cbb252c2d4586b90d1906590c5ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fda2c7d73ee41e247c279cb98c2cbe3') in 0.006447 seconds
+  Import took 0.009760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.915687 seconds.
+  path: Assets/Animations/Shield_Powerup.controller
+  artifactKey: Guid(ef925eb112dd04626920e493451e7e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Shield_Powerup.controller using Guid(ef925eb112dd04626920e493451e7e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3aca46c068e2ea1589780d6ba0e93d7a') in 0.003089 seconds
+  Import took 0.006062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Animations/Shield_Powerup.controller
+  artifactKey: Guid(ef925eb112dd04626920e493451e7e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Shield_Powerup.controller using Guid(ef925eb112dd04626920e493451e7e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3aca46c068e2ea1589780d6ba0e93d7a') in 0.003344 seconds
+  Import took 0.005868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.437662 seconds.
+  path: Assets/Animations/TripleShot_Powerup.controller
+  artifactKey: Guid(70a7cbb252c2d4586b90d1906590c5ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/TripleShot_Powerup.controller using Guid(70a7cbb252c2d4586b90d1906590c5ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f3b349ec0fe62b5737d5e9d2cae74fe') in 0.003799 seconds
+  Import took 0.007556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 429.118769 seconds.
+  path: Assets/Prefabs/Shield_Powerup.prefab
+  artifactKey: Guid(793dd9b6dffee4186823c886b8ab0393) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Shield_Powerup.prefab using Guid(793dd9b6dffee4186823c886b8ab0393) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Powerup2_0008_00000) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:635)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:601)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:623)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:868)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+The Animator Controller (Powerup2_0008_00000) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:590)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:604)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:623)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:868)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+ -> (artifact id: 'df5dfab1e4db0812225c21d824ff3619') in 0.310120 seconds
+  Import took 0.317813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 109.339617 seconds.
+  path: Assets/Sprites/Power_Ups/Speed/Powerup1_0008_00000.psd
+  artifactKey: Guid(5b8849e8703cd2a48856f693a7ce5940) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Power_Ups/Speed/Powerup1_0008_00000.psd using Guid(5b8849e8703cd2a48856f693a7ce5940) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '779267e5bb44e8f50e786fa4a51b9446') in 0.610888 seconds
+  Import took 0.614081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 796.768810 seconds.
+  path: Assets/Prefabs/Speed_Powerup.prefab
+  artifactKey: Guid(6ead42c2d909c40bcbbff4fc44eb1704) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Speed_Powerup.prefab using Guid(6ead42c2d909c40bcbbff4fc44eb1704) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Speed_Powerup) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:635)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:601)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:623)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:868)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+The Animator Controller (Speed_Powerup) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:590)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:604)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:623)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:868)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+ -> (artifact id: '50fd9bba9e23a277058e5e32b898b927') in 0.048976 seconds
+  Import took 0.058281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.453301 seconds.
+  path: Assets/Prefabs/TripleShot_Powerup.prefab
+  artifactKey: Guid(fd349311f1c034243b908d69bdc93d13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/TripleShot_Powerup.prefab using Guid(fd349311f1c034243b908d69bdc93d13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04270fdeca6dad1ae3173a24f3540d6b') in 0.022653 seconds
+  Import took 0.025711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003196 seconds.
+  path: Assets/Prefabs/TripleShot_Powerup.prefab
+  artifactKey: Guid(fd349311f1c034243b908d69bdc93d13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/TripleShot_Powerup.prefab using Guid(fd349311f1c034243b908d69bdc93d13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04270fdeca6dad1ae3173a24f3540d6b') in 0.008101 seconds
+  Import took 0.010800 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001028 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.091 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1801 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 217.9 MB.
+System memory in use after: 218.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2613.
+Total: 2.473250 ms (FindLiveObjects: 0.498625 ms CreateObjectMapping: 0.038083 ms MarkObjects: 1.919875 ms  DeleteObjects: 0.015625 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000446 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.891 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1801 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 218.2 MB.
+System memory in use after: 218.3 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2617.
+Total: 1.588500 ms (FindLiveObjects: 0.126458 ms CreateObjectMapping: 0.037875 ms MarkObjects: 1.406541 ms  DeleteObjects: 0.016416 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000499 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.052 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1801 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 218.4 MB.
+System memory in use after: 218.5 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2621.
+Total: 1.546541 ms (FindLiveObjects: 0.233958 ms CreateObjectMapping: 0.040500 ms MarkObjects: 1.244209 ms  DeleteObjects: 0.027083 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001057 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.930 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1801 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 218.6 MB.
+System memory in use after: 218.7 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2625.
+Total: 1.531250 ms (FindLiveObjects: 0.275916 ms CreateObjectMapping: 0.041000 ms MarkObjects: 1.196792 ms  DeleteObjects: 0.016625 ms)
+

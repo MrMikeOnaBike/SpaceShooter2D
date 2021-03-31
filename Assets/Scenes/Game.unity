@@ -444,6 +444,7 @@ MonoBehaviour:
   _enemyPrefab: {fileID: 4379953197814646857, guid: 98ba05cf125854ca3be10ee667b09a97, type: 3}
   _enemyContainer: {fileID: 497640859}
   _tripleShotPowerup: {fileID: 9120514591934818450, guid: fd349311f1c034243b908d69bdc93d13, type: 3}
+  _stopSpawning: 1
 --- !u!4 &1172138899
 Transform:
   m_ObjectHideFlags: 0

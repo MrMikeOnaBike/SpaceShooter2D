@@ -8,8 +8,7 @@ public class SpawnManager : MonoBehaviour
     [SerializeField] private GameObject _enemyPrefab;
     [SerializeField] private GameObject _enemyContainer;
     [SerializeField] private GameObject _tripleShotPowerup;
-
-    private bool _stopSpawning = false;
+    [SerializeField] private bool _stopSpawning = false;
 
     // Start is called before the first frame update
     void Start()
