@@ -17,12 +17,14 @@ public class Player : MonoBehaviour
     private SpawnManager _spawnManager;
     private UIManager _UImanager;
     private int _score;
+    private Animator _anim;
+
 
     private float _canFire = -1f;
 
     void Start()
     {
-        transform.position = new Vector3(0f, -3.6f, 0f);
+        transform.position = new Vector3(0f, -3f, 0f);
 
         _spawnManager = GameObject.Find("Spawn Manager").GetComponent<SpawnManager>();
         if (_spawnManager == null)
@@ -35,7 +37,14 @@ public class Player : MonoBehaviour
         {
             Debug.Log("The UIManager is null.");
         }
+
+        _anim = GetComponent<Animator>();
+        if (_anim == null)
+        {
+            Debug.Log("Animator is null.");
+        }
     }
+
 
     void Update()
     {
@@ -47,22 +56,25 @@ public class Player : MonoBehaviour
         }
     }
 
+
     void CalculateMovement()
     {
         float horizontalInput = Input.GetAxis("Horizontal");
+        _anim.SetFloat("Direction",horizontalInput);
+
         float verticalInput = Input.GetAxis("Vertical");
 
         Vector3 direction = new Vector3(horizontalInput, verticalInput, 0f);
 
         transform.Translate(direction * _speed * _speedBoost * Time.deltaTime);
 
-        if (transform.position.y >= 0)
+        if (transform.position.y >= 2)
         {
-            transform.position = new Vector3(transform.position.x, 0f, 0f);
+            transform.position = new Vector3(transform.position.x, 2f, 0f);
         }
-        else if (transform.position.y <= -3.8)
+        else if (transform.position.y <= -3)
         {
-            transform.position = new Vector3(transform.position.x, -3.8f, 0f);
+            transform.position = new Vector3(transform.position.x, -3f, 0f);
         }
 
         if (transform.position.x > 11.3f)

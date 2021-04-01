@@ -18,15 +18,32 @@ public class SpawnManager : MonoBehaviour
     private float _maxPosX = 8f;
     private float _posY = 7f;
 
-    // Start is called before the first frame update
-    void Start()
+    public void StartSpawning()
     {
         StartCoroutine(SpawnEnemyRoutine());
         StartCoroutine(SpawnPowerupRoutine());
+        StartCoroutine(LowerSpawnRate());
+    }
+
+    IEnumerator LowerSpawnRate()
+    {
+        while (_stopSpawning == false)
+        {
+            yield return new WaitForSeconds(10.0f);
+
+            _enemySpawnRate -= 0.1f;
+
+            if(_enemySpawnRate < 1.0f)
+            {
+                _enemySpawnRate = 1.0f;
+            }
+        }
     }
 
     IEnumerator SpawnEnemyRoutine()
     {
+        yield return new WaitForSeconds(3.0f);
+
         while (_stopSpawning == false)
         {
             Vector3 positionToSpawn = new Vector3(Random.Range(_minPosX, _maxPosX), _posY, 0f);
@@ -41,6 +58,8 @@ public class SpawnManager : MonoBehaviour
 
     IEnumerator SpawnPowerupRoutine()
     {
+        yield return new WaitForSeconds(10f);
+
         while (_stopSpawning == false)
         {
             //decide which powerup to spawn

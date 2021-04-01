@@ -5,17 +5,23 @@ using UnityEngine;
 public class Enemy : MonoBehaviour
 {
     [SerializeField] private float _speed = 4f;
-
+    private Animator _anim;
     private Player _player;
+    private bool _isDying = false;
+
 
     private void Start()
     {
-        //store a reference to the player so we can access the script
         _player = GameObject.Find("Player").GetComponent<Player>();
-
         if(_player == null)
         {
             Debug.Log("Player game object not found - something is very wrong...");
+        }
+
+        _anim = GetComponent<Animator>();
+        if(_anim == null)
+        {
+            Debug.Log("Animator is null.");
         }
     }
 
@@ -24,9 +30,9 @@ public class Enemy : MonoBehaviour
     {
         transform.Translate(Vector3.down * _speed * Time.deltaTime);
 
-        if(transform.position.y < -6f)
+        if(transform.position.y < -6f && _isDying == false)
         {
-            transform.position = new Vector3(Random.Range(-9f, 9f), 6f, 0f);
+            transform.position = new Vector3(Random.Range(-9f, 9f), 7f, 0f);
         }
     }
 
@@ -34,6 +40,8 @@ public class Enemy : MonoBehaviour
     {
         if(other.tag == "Player")
         {
+            _isDying = true;
+
             Player _player = other.gameObject.GetComponent<Player>();
 
             if (_player != null)
@@ -41,16 +49,24 @@ public class Enemy : MonoBehaviour
                 _player.Damage();
             }
 
-            Destroy(this.gameObject);
+            _anim.SetTrigger("OnEnemyDeath");
+
+            Destroy(this.gameObject, 2.8f);
 
         }
         else if(other.tag == "Laser")
         {
+            _isDying = true;
+
             Destroy(other.gameObject);
 
             _player.AddScore();
 
-            Destroy(this.gameObject);
+            _speed = 0f;
+
+            _anim.SetTrigger("OnEnemyDeath");
+
+            Destroy(this.gameObject, 2.8f);
         }
     }
 }
