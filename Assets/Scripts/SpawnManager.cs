@@ -4,11 +4,19 @@ using UnityEngine;
 
 public class SpawnManager : MonoBehaviour
 {
-    [SerializeField] private float _spawnRate = 5.0f;
+    [SerializeField] private float _enemySpawnRate = 5.0f;
+    [SerializeField] private float _minSpawnRate = 5.0f;
+    [SerializeField] private float _maxSpawnRate = 10.0f;
     [SerializeField] private GameObject _enemyPrefab;
     [SerializeField] private GameObject _enemyContainer;
     [SerializeField] private GameObject _tripleShotPowerup;
+    [SerializeField] private GameObject _speedBoostPowerup;
+    [SerializeField] private GameObject _shieldsPowerup;
     [SerializeField] private bool _stopSpawning = false;
+
+    private float _minPosX = -8f;
+    private float _maxPosX = 8f;
+    private float _posY = 7f;
 
     // Start is called before the first frame update
     void Start()
@@ -21,13 +29,13 @@ public class SpawnManager : MonoBehaviour
     {
         while (_stopSpawning == false)
         {
-            Vector3 positionToSpawn = new Vector3(Random.Range(-8f, 8f), 7f, 0f);
+            Vector3 positionToSpawn = new Vector3(Random.Range(_minPosX, _maxPosX), _posY, 0f);
 
             GameObject newEnemy = Instantiate(_enemyPrefab, positionToSpawn, Quaternion.identity);
 
             newEnemy.transform.parent = _enemyContainer.transform;
 
-            yield return new WaitForSeconds(_spawnRate);
+            yield return new WaitForSeconds(_enemySpawnRate);
         }
     }
 
@@ -35,13 +43,28 @@ public class SpawnManager : MonoBehaviour
     {
         while (_stopSpawning == false)
         {
-            float spawnRate = Random.Range(3f, 7f);
+            //decide which powerup to spawn
+            int powerupID = Random.Range(0, 3);
+            Vector3 positionToSpawn = new Vector3(Random.Range(_minPosX, _maxPosX), _posY, 0f);
+            float powerupSpawnRate = Random.Range(_minSpawnRate, _maxSpawnRate);
 
-            Vector3 positionToSpawn = new Vector3(Random.Range(-8f, 8f), 7f, 0f);
+            switch (powerupID)
+            {
+                case 0: // triple shot
+                    Instantiate(_tripleShotPowerup, positionToSpawn, Quaternion.identity);
+                    break;
+                case 1: // speed boost
+                    Instantiate(_speedBoostPowerup, positionToSpawn, Quaternion.identity);
+                    break;
+                case 2: // shields
+                    Instantiate(_shieldsPowerup, positionToSpawn, Quaternion.identity);
+                    break;
+                default:
+                    //do nothing
+                    break;
+            }
 
-            Instantiate(_tripleShotPowerup, positionToSpawn, Quaternion.identity);
-
-            yield return new WaitForSeconds(spawnRate);
+            yield return new WaitForSeconds(powerupSpawnRate);
         }
     }
 

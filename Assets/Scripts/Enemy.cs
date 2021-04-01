@@ -6,6 +6,19 @@ public class Enemy : MonoBehaviour
 {
     [SerializeField] private float _speed = 4f;
 
+    private Player _player;
+
+    private void Start()
+    {
+        //store a reference to the player so we can access the script
+        _player = GameObject.Find("Player").GetComponent<Player>();
+
+        if(_player == null)
+        {
+            Debug.Log("Player game object not found - something is very wrong...");
+        }
+    }
+
     // Update is called once per frame
     void Update()
     {
@@ -34,6 +47,8 @@ public class Enemy : MonoBehaviour
         else if(other.tag == "Laser")
         {
             Destroy(other.gameObject);
+
+            _player.AddScore();
 
             Destroy(this.gameObject);
         }
