@@ -136,6 +136,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _speed: 3
+  _lifeSpan: 5
   _powerupID: 0
 --- !u!95 &928428041
 Animator:

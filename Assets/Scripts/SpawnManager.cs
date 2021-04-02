@@ -14,9 +14,9 @@ public class SpawnManager : MonoBehaviour
     [SerializeField] private GameObject _shieldsPowerup;
     [SerializeField] private bool _stopSpawning = false;
 
-    private float _minPosX = -8f;
-    private float _maxPosX = 8f;
-    private float _posY = 7f;
+    private float _minPosX = -5f;
+    private float _maxPosX = 5f;
+    private float _posY = 12f;
 
     public void StartSpawning()
     {
@@ -58,7 +58,7 @@ public class SpawnManager : MonoBehaviour
 
     IEnumerator SpawnPowerupRoutine()
     {
-        yield return new WaitForSeconds(10f);
+        //yield return new WaitForSeconds(10f);
 
         while (_stopSpawning == false)
         {
@@ -70,13 +70,13 @@ public class SpawnManager : MonoBehaviour
             switch (powerupID)
             {
                 case 0: // triple shot
-                    Instantiate(_tripleShotPowerup, positionToSpawn, Quaternion.identity);
+                    Instantiate(_tripleShotPowerup, positionToSpawn, Quaternion.Euler(0,0,90));
                     break;
                 case 1: // speed boost
-                    Instantiate(_speedBoostPowerup, positionToSpawn, Quaternion.identity);
+                    Instantiate(_speedBoostPowerup, positionToSpawn, Quaternion.Euler(0, 0, 90));
                     break;
                 case 2: // shields
-                    Instantiate(_shieldsPowerup, positionToSpawn, Quaternion.identity);
+                    Instantiate(_shieldsPowerup, positionToSpawn, Quaternion.Euler(0, 0, 90));
                     break;
                 default:
                     //do nothing

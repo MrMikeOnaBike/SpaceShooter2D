@@ -11,7 +11,7 @@ public class Laser : MonoBehaviour
     {
         transform.Translate(Vector3.up * _speed * Time.deltaTime);
 
-        if(transform.position.y > 8.0f)
+        if(transform.position.y > 13.0f)
         {
             if(transform.parent != null)
             {

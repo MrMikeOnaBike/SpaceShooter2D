@@ -10,6 +10,9 @@ public class Player : MonoBehaviour
     [SerializeField] private float _fireRate = 0.2f;
     [SerializeField] private GameObject _tripleShotPrefab;
     [SerializeField] private GameObject _shields;
+    [SerializeField] private GameObject _rightEngineFire;
+    [SerializeField] private GameObject _leftEngineFire;
+    [SerializeField] private GameObject _explosionPrefab;
 
     private bool _isTripleShotActive = false;
     private bool _areShieldsActive = false;
@@ -48,42 +51,49 @@ public class Player : MonoBehaviour
 
     void Update()
     {
-        CalculateMovement();
-
-        if (Input.GetKeyDown(KeyCode.Space) && Time.time > _canFire)
+        if (_lives > 0)
         {
-            FireLaser();
+            CalculateMovement();
+
+            if (Input.GetKeyDown(KeyCode.Space) && Time.time > _canFire)
+            {
+                FireLaser();
+            }
         }
     }
 
 
     void CalculateMovement()
     {
-        float horizontalInput = Input.GetAxis("Horizontal");
-        _anim.SetFloat("Direction",horizontalInput);
+        //X & Y SWITCHED FOR LANDSCAPE LAYOUT!!
 
-        float verticalInput = Input.GetAxis("Vertical");
+        // float horizontalInput = Input.GetAxis("Horizontal");
+        // float verticalInput = Input.GetAxis("Vertical");
+        float verticalInput = Input.GetAxis("Horizontal");
+        float horizontalInput = 0 - Input.GetAxis("Vertical");
+
+        _anim.SetFloat("Direction", horizontalInput);
 
         Vector3 direction = new Vector3(horizontalInput, verticalInput, 0f);
 
         transform.Translate(direction * _speed * _speedBoost * Time.deltaTime);
 
-        if (transform.position.y >= 2)
+        if (transform.position.y >= 3)
         {
-            transform.position = new Vector3(transform.position.x, 2f, 0f);
+            transform.position = new Vector3(transform.position.x, 3f, 0f);
         }
-        else if (transform.position.y <= -3)
+        else if (transform.position.y <= -7)
         {
-            transform.position = new Vector3(transform.position.x, -3f, 0f);
+            transform.position = new Vector3(transform.position.x, -7f, 0f);
         }
 
-        if (transform.position.x > 11.3f)
+        if (transform.position.x > 6f)
         {
-            transform.position = new Vector3(-11.3f, transform.position.y, 0f);
+            transform.position = new Vector3(-6f, transform.position.y, 0f);
         }
-        else if (transform.position.x < -11.3f)
+        else if (transform.position.x < -6f)
         {
-            transform.position = new Vector3(11.3f, transform.position.y, 0f);
+            transform.position = new Vector3(6f, transform.position.y, 0f);
         }
 
     }
@@ -113,15 +123,31 @@ public class Player : MonoBehaviour
         else
         {
             _lives--;
-
             _UImanager.UpdateLives(_lives);
 
-            if (_lives <= 0)
+            switch (_lives)
             {
-                //call the function in the spawn manager script and let it know we died
-                _spawnManager.GetComponent<SpawnManager>().OnPlayerDeath();
-
-                Destroy(this.gameObject);
+                case 0:  //game over
+                    _spawnManager.GetComponent<SpawnManager>().OnPlayerDeath();
+                    Instantiate(_explosionPrefab, transform.position, Quaternion.identity);
+                    Destroy(this.gameObject, 1f);
+                    break;
+                case 1:  //both engines damages
+                    _rightEngineFire.SetActive(true);
+                    _leftEngineFire.SetActive(true);
+                    break;
+                case 2:  //pick one engine to damage
+                    if(Random.Range(1,3) == 1)
+                    {
+                        _rightEngineFire.SetActive(true);
+                        _leftEngineFire.SetActive(false);
+                    }
+                    else
+                    {
+                        _rightEngineFire.SetActive(false);
+                        _leftEngineFire.SetActive(true);
+                    }
+                    break;
             }
         }
     }

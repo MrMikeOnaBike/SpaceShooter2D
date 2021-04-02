@@ -32,7 +32,7 @@ public class Enemy : MonoBehaviour
 
         if(transform.position.y < -6f && _isDying == false)
         {
-            transform.position = new Vector3(Random.Range(-9f, 9f), 7f, 0f);
+            transform.position = new Vector3(Random.Range(-5f, 5f), 12f, 0f);
         }
     }
 
