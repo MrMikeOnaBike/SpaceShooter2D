@@ -125,30 +125,7 @@ public class Player : MonoBehaviour
             _lives--;
             _UImanager.UpdateLives(_lives);
 
-            switch (_lives)
-            {
-                case 0:  //game over
-                    _spawnManager.GetComponent<SpawnManager>().OnPlayerDeath();
-                    Instantiate(_explosionPrefab, transform.position, Quaternion.identity);
-                    Destroy(this.gameObject, 1f);
-                    break;
-                case 1:  //both engines damages
-                    _rightEngineFire.SetActive(true);
-                    _leftEngineFire.SetActive(true);
-                    break;
-                case 2:  //pick one engine to damage
-                    if(Random.Range(1,3) == 1)
-                    {
-                        _rightEngineFire.SetActive(true);
-                        _leftEngineFire.SetActive(false);
-                    }
-                    else
-                    {
-                        _rightEngineFire.SetActive(false);
-                        _leftEngineFire.SetActive(true);
-                    }
-                    break;
-            }
+            UpdatePlayerDamage();
         }
     }
 
@@ -196,5 +173,39 @@ public class Player : MonoBehaviour
 
         _UImanager.UpdateScoreText(_score);
 
+    }
+
+    private void UpdatePlayerDamage()
+    {
+        //in a future update there will be health power-ups
+        //so turn off both before checking to give the illusion
+        //  of randomally fixing either the left or the right
+        _rightEngineFire.SetActive(false);
+        _leftEngineFire.SetActive(false);
+
+        switch (_lives)
+        {
+            case 0:  //game over
+                _rightEngineFire.SetActive(true);
+                _leftEngineFire.SetActive(true);
+                _spawnManager.GetComponent<SpawnManager>().OnPlayerDeath();
+                Instantiate(_explosionPrefab, transform.position, Quaternion.identity);
+                Destroy(this.gameObject, 1f);
+                break;
+            case 1:  //both engines damages
+                _rightEngineFire.SetActive(true);
+                _leftEngineFire.SetActive(true);
+                break;
+            case 2:  //pick one engine to damage
+                if (Random.Range(1, 3) == 1)
+                {
+                    _rightEngineFire.SetActive(true);
+                }
+                else
+                {
+                    _leftEngineFire.SetActive(true);
+                }
+                break;
+        }
     }
 }
