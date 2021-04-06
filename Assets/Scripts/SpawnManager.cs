@@ -58,7 +58,7 @@ public class SpawnManager : MonoBehaviour
 
     IEnumerator SpawnPowerupRoutine()
     {
-        //yield return new WaitForSeconds(10f);
+        yield return new WaitForSeconds(10f);
 
         while (_stopSpawning == false)
         {
